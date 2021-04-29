@@ -24,6 +24,8 @@ public class Asteroid {
     public String getComposition(){
         return  this.composition;
     }
+    public void setDistance_of_earth(int distance_of_earth) {this.distance_of_earth = distance_of_earth; }
+    public int getDistance_of_earth() { return distance_of_earth; }
     public void setSpeed(double nuevaVelocidad){
         this.speed=nuevaVelocidad;
     }

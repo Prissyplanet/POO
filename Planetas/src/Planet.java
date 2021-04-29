@@ -39,4 +39,6 @@ public class Planet {
     public int getOrbitDays() {
         return this.orbit_days;
     }
+    public void setMass(double mass) { this.mass = mass; }
+    public double getMass() { return mass; }
 }
