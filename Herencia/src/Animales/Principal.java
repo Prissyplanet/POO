@@ -6,10 +6,9 @@ import java.util.Scanner;
 public class Principal {
     public static void main(String[] args) {
 
-      /*  int[] miArray= new int[4];
+
         String[] str;
-        miArray[0]=100;
-        miArray[1]=2;
+
         Scanner scanner= new Scanner(System.in);
         System.out.println("¿Cuántos registros deseas?");
         int c= scanner.nextInt();
@@ -19,7 +18,7 @@ public class Principal {
             String n= scanner.next();
             str[x]=n;
         }
-        imprimirArreglo(str); */
+        imprimirArreglo(str);
         Ave[] arrayAves=new Ave[3];
         Animal pipo=new Animal(Color.black,2323);
         Ave Kowalsky=new Ave(Color.black,40,"pinqüino");

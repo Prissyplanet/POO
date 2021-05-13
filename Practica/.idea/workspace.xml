@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7087b5b-1c92-48d5-bbfe-dbd4a4973542" name="Default Changelist" comment="" />
+    <list default="true" id="515f7777-fd54-4c8f-a183-346ba3e87dd1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1racNtI1OZDgdmJekqd7K3tc6kZ" />
+  <component name="ProjectId" id="1sTJJR78elnea88vHOQExSEGpDJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,12 +26,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Herencia" />
   </component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Principal" />
-      <module name="Planetas" />
+      <option name="MAIN_CLASS_NAME" value="Zonas.Principal" />
+      <module name="Practica" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -45,11 +45,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a7087b5b-1c92-48d5-bbfe-dbd4a4973542" name="Default Changelist" comment="" />
-      <created>1619217607110</created>
+      <changelist id="515f7777-fd54-4c8f-a183-346ba3e87dd1" name="Default Changelist" comment="" />
+      <created>1620890578526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619217607110</updated>
+      <updated>1620890578526</updated>
     </task>
     <servers />
   </component>
@@ -63,6 +63,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
