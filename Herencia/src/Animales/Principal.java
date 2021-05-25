@@ -21,7 +21,7 @@ public class Principal {
         imprimirArreglo(str);
         Ave[] arrayAves=new Ave[3];
         Animal pipo=new Animal(Color.black,2323);
-        Ave Kowalsky=new Ave(Color.black,40,"pinqüino");
+        Ave Kowalsky=new Ave(Color.black,40,"pingüino");
         arrayAves[0]=Kowalsky;
         arrayAves[1]= new Ave(Color.yellow, 55,"canario");
         System.out.println(arrayAves[1].getTipo());

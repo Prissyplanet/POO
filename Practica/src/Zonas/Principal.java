@@ -66,7 +66,7 @@ public class Principal {
                     }
                 }break;
                 case 4:{
-                    System.out.println("AdioOOooooooOooooOOOooos... si no saco 10 me mato:))))");
+                    System.out.println("AdioOOooooooOooooOOOooos... si no saco 10 me mato:)))) ");
                 }break;
 
             }
