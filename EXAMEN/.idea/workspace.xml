@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="515f7777-fd54-4c8f-a183-346ba3e87dd1" name="Default Changelist" comment="" />
+    <list default="true" id="9642c409-4102-4fe0-aa37-74bb34a4fe01" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1sTJJR78elnea88vHOQExSEGpDJ" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1t9Jx4bl1B5yfuBKsDy1qk0rAgx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,12 +34,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examen_chido" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Herencia" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zonas.Principal" />
-      <module name="Practica" />
+      <option name="MAIN_CLASS_NAME" value="HOTELES.Principal" />
+      <module name="EXAMEN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HOTELES.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -45,11 +62,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="515f7777-fd54-4c8f-a183-346ba3e87dd1" name="Default Changelist" comment="" />
-      <created>1620890578526</created>
+      <changelist id="9642c409-4102-4fe0-aa37-74bb34a4fe01" name="Default Changelist" comment="" />
+      <created>1622175625963</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1620890578526</updated>
+      <updated>1622175625963</updated>
     </task>
     <servers />
   </component>
@@ -63,6 +80,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

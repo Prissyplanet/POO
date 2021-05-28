@@ -43,7 +43,7 @@ public class Usuario {
     public void decirHola(){
         System.out.println("Decir hola desde la clase usuario:D");
     }
-    private int cobrarCheque(){
+    public int cobrarCheque(){
          return 500*7;
     }
 }

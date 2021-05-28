@@ -8,5 +8,6 @@ public class Principal {
         System.out.println("tienes: "+ cliente1.getSaldo());
         boolean respuesta2=cliente1.iniciarSesion("costumer","ahioahio");
         System.out.println("Login: "+ respuesta2);
+
     }
 }
