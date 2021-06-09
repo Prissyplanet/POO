@@ -1,12 +1,11 @@
-public class Recepcionista extends Usuario {
+public class Recepcionista extends Empleado {
     private String consultorio;
-    private int horasTrabajadas;
-    private double sueldoHora;
-    public Recepcionista(String nombre, String usuario, String contraseña, String consultorio, int horasTrabajadas, double sueldoHora) {
-        super(nombre, usuario, contraseña);
+    private int horasextra;
+    private double valorHorasExtra=this.getSueldoHora()*2;
+    public Recepcionista(String nombre, String consultorio, int horasTrabajadas, double sueldoHora, int horasextra) {
+        super(nombre, sueldoHora,horasTrabajadas);
         this.consultorio=consultorio;
-        this.horasTrabajadas=horasTrabajadas;
-        this.sueldoHora=sueldoHora;
+        this.horasextra=horasextra;
     }
 
     public void setConsultorio(String consultorio) {
@@ -17,19 +16,16 @@ public class Recepcionista extends Usuario {
         return consultorio;
     }
 
-    public void setHorasTrabajadas(int horasTrabajadas) {
-        this.horasTrabajadas = horasTrabajadas;
+    public void setHorasextra(int horasextra) {
+        this.horasextra = horasextra;
     }
 
-    public int getHorasTrabajadas() {
-        return horasTrabajadas;
+    public int getHorasextra() {
+        return horasextra;
     }
 
-    public void setSueldoHora(double sueldoHora) {
-        this.sueldoHora = sueldoHora;
-    }
-
-    public double getSueldoHora() {
-        return sueldoHora;
+    @Override
+    public double calcularSueldo() {
+        return (this.getSueldoHora()*this.getHorasTrabajadas())+ (this.getHorasextra()*valorHorasExtra);
     }
 }

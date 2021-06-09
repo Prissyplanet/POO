@@ -1,13 +1,11 @@
 
-public abstract class Consultorio {
+public class Persona {
     private String nombre;
 
-    public Consultorio(String nombre) {
+    public Persona(String nombre) {
         this.nombre=nombre;
 
     }
-    public abstract String verCalendariodeCitas();
-
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
@@ -15,6 +13,10 @@ public abstract class Consultorio {
     public String getNombre() {
         return nombre;
     }
+
+public void hablar(){
+    System.out.println("Soy una persona y puedo hablar");
+}
 
 
 }

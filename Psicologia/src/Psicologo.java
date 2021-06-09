@@ -1,8 +1,8 @@
-public class Psicologo extends Consultorio {
+public class Psicologo extends Empleado {
 
         private String apellido;
-    public Psicologo(String nombre, String apellido) {
-        super(nombre);
+    public Psicologo(String nombre, String apellido,double sueldoHora, int horasTrabajadas) {
+        super(nombre,sueldoHora,horasTrabajadas);
         this.apellido=apellido;
     }
 
@@ -14,8 +14,10 @@ public class Psicologo extends Consultorio {
         return apellido;
     }
 
+
+
     @Override
-    public String verCalendariodeCitas() {
-        return "Este es el calendario, ";
+    public double calcularSueldo() {
+        return this.getSueldoHora()*this.getHorasTrabajadas();
     }
 }
