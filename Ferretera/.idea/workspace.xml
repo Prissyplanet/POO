@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67755988-f208-480b-9724-531cb591e3a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Psicologia/src/Conserje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Psicologia/src/NuevaCita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Psicologia/src/NuevaRenuncia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Psicologia/src/Renuncia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Banco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Banco/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Figuras/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Figuras/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Herencia2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Herencia2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Cita.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Cita.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Consultorio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Paciente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Paciente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Psicologo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Psicologo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Recepcionista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Recepcionista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/out/production/Psicologia/Usuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/src/Cita.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/src/Cita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/src/Consultorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/src/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/src/Paciente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/src/Psicologo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/src/Psicologo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/src/Recepcionista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Psicologia/src/Recepcionista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Psicologia/src/Usuario.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
